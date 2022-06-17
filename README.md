@@ -1,6 +1,4 @@
-
-
-
+<center>
 
 <h1 align="center">Hi,Im Shaven Wickramanayake / IceFly147</h1>
 
@@ -74,3 +72,5 @@ Im a Front End Web developer (Hoping to #_#)specializing in 3D personal Portfoli
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+  <center>
