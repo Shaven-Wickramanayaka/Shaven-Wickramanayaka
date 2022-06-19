@@ -6,12 +6,12 @@
 
 ### About Me >
 
-Im a Front End Web developer (Hoping to #_#)specializing in 3D personal Portfolio Website
+Im a Frontend developer learning Javascript with the Odin Poraject :)
 
 - 🔭 Im currently working on improving my Javascript skills and lerning Scss
 - 🌱 Working on remastering legacy website
 - ⚡  I spend my free time studying and staring a betta fish. the latter being more common
-- 📫 My personel website: https://icefly147.github.io/Website/
+- 📫 My personel website: https://icefly147.github.io/Portfolio-Website/
 <p align="center"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500"/></p>
 
 
@@ -21,25 +21,17 @@ Im a Front End Web developer (Hoping to #_#)specializing in 3D personal Portfoli
 <p>
 <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 
-<img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="40" height="40"/>&nbsp;
-
-<img src="https://skillicons.dev/icons?i=materialui" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-
 <img src="https://skillicons.dev/icons?i=css"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 
 <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 
-<img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+
 </p>
 
 ### Frameworks I use:
 
 <p>
 <img src="https://skillicons.dev/icons?i=bootstrap" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-
-<img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="40" height="40"/>&nbsp;
-
-<img src="https://skillicons.dev/icons?i=materialui" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 
 <img src="https://skillicons.dev/icons?i=sass"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 
@@ -63,14 +55,14 @@ Im a Front End Web developer (Hoping to #_#)specializing in 3D personal Portfoli
 
 
 
-### 🔥 &nbsp; My Stats :
+### Github Stats!
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IceFly147&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IceFly147&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- Markdown -->
-
+### Thats all!! Bye
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
   <center>
