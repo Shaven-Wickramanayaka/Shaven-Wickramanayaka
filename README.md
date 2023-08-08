@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/night%20code.gif" width="600"   /></p>
 
-### About Me >
+### About Me:
 
 Im a Frontend developer learning Javascript with the Odin Poraject :)
 
@@ -16,6 +16,7 @@ Im a Frontend developer learning Javascript with the Odin Poraject :)
 
 
 </p>
+
 ### Languages i use:
 
 <p>
