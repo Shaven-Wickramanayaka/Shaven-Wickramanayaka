@@ -1,5 +1,4 @@
 # (☞ﾟヮﾟ)☞ Shaven Wickramanayaka ☜(ﾟヮﾟ☜)
----
 ## ↪ Basic Information
 
 ```
