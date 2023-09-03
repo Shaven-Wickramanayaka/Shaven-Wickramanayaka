@@ -1,69 +1,51 @@
-<center>
+# (☞ﾟヮﾟ)☞ Shaven Wickramanayaka ☜(ﾟヮﾟ☜)
+---
+## ↪ Basic Information
 
-<h1 align="center">Hi,Im Shaven Wickramanayake / IceFly147</h1>
+```
+"Name": Shaven Dulneth Wickramanayaka,
+"Age" : 14 ,
+"Country": Sri Lanka,
+"Email": ShavenDulneth@gmail.com,
+"Gender": Male,
+"Hobbies": Programming, Basketball,
+```
+## ▦▧ Technical Information ▦▧
 
-<p align="center"><img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/night%20code.gif" width="600"   /></p>
+- ### 🐙 GitHub Statistics
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="IceFly147's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=IceFly147&show_icons=true&include_all_commits=true&count_private=true&theme=react&bg_color=#0000&title_color=F85D7F&icon_color=F8D86" height="192px"/>
 
-### About Me:
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IceFly147&layout=compact&theme=vision-friendly-dark&bg_color=#121212)
 
-Im a Frontend developer learning Javascript with the Odin Poraject :)
+- ### 💬 Programming Languages
+|                    |                                                                 |
+| :----------------: | :--------------------------------------------------------------:|
+|     `HTML5`        |![My Skills](https://skillicons.dev/icons?i=html&width=48)       |
+|     `CSS3`         |![My Skills](https://skillicons.dev/icons?i=css&width=48)        |
+|     `C#`           |![My Skills](https://skillicons.dev/icons?i=cs&width=48)         |
+|     `Javascript`  |![My Skills](https://skillicons.dev/icons?i=javascript&width=48)  |
+|     `Python`       |![My Skills](https://skillicons.dev/icons?i=python&width=48)     |
+|     `Markdown`     |![My Skills](https://skillicons.dev/icons?i=md&width=48)         |
 
-- 🔭 Im currently working on improving my Javascript skills and lerning Scss
-- 🌱 Working on remastering legacy website
-- ⚡  I spend my free time studying and staring a betta fish. the latter being more common
-- 📫 My personel website: https://icefly147.github.io/Portfolio-Website/
-<p align="center"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500"/></p>
+- ### 🎨 Frameworks and Tool
+|                      |                                                                  |
+| :------------------: | :--------------------------------------------------------------: |
+|     `VS Code`        |![My Skills](https://skillicons.dev/icons?i=vscode&width=48)      |
+|     `Visual Studio`  |![My Skills](https://skillicons.dev/icons?i=visualstudio&width=48)|
+|     `Unity`          |![My Skills](https://skillicons.dev/icons?i=unity&width=48)       |
+|     `Django`         |![My Skills](https://skillicons.dev/icons?i=django&width=48)      |
+|     `ThreeJS`        |![My Skills](https://skillicons.dev/icons?i=threejs&width=48)     |
+|     `Sass`           |![My Skills](https://skillicons.dev/icons?i=sass&width=48)        |
 
+## ∑ Certifications
+- ### Cambridge O Level: 5A's, 1A* 
+- ### CS50x: Harvard's Introduction To Computer Science and the art of Programming
 
-</p>
+## ⋐ Projects
+- ### [Personal Website](https://github.com/IceFly147/icefly147.github.io)
+- ### [Learnova: Roadmaps On Steroids](https://github.com/IceFly147/Graviton-1)
+- ### <strike>Missing Semicolon Studio</strike>
 
-### Languages i use:
+## Thank You For Reading ^_^
 
-<p>
-<img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-
-<img src="https://skillicons.dev/icons?i=css"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-
-<img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-
-
-</p>
-
-### Frameworks I use:
-
-<p>
-<img src="https://skillicons.dev/icons?i=bootstrap" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-
-<img src="https://skillicons.dev/icons?i=sass"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-
-<img src="https://skillicons.dev/icons?i=jquery" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-
-<img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-</p>
-
-### Tools I use:
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-
-<img src="https://skillicons.dev/icons?i=discord" title="React" alt="React" width="40" height="40"/>&nbsp;
-
-<img src="https://skillicons.dev/icons?i=twitter" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-
-<img src="https://skillicons.dev/icons?i=stackoverflow"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-
-<img src="https://skillicons.dev/icons?i=pr" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-
-
-
-### Github Stats!
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IceFly147&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IceFly147&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!-- Markdown -->
-### Thats all!! Bye
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-  <center>
