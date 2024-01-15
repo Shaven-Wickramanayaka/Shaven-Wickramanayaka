@@ -12,9 +12,9 @@
 ## ▦▧ Technical Information ▦▧
 
 - ### 🐙 GitHub Statistics
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="IceFly147's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=IceFly147&show_icons=true&include_all_commits=true&count_private=true&theme=react&bg_color=#0000&title_color=F85D7F&icon_color=F8D86" height="192px"/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="IceFly147's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Shaven-Wickramanayaka&show_icons=true&include_all_commits=true&count_private=true&theme=react&bg_color=#0000&title_color=F85D7F&icon_color=F8D86" height="192px"/>
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IceFly147&layout=compact&theme=vision-friendly-dark&bg_color=#121212)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaven-Wickramanayaka&layout=compact&theme=vision-friendly-dark&bg_color=#121212)
 
 - ### 💬 Programming Languages
 |                    |                                                                 |
@@ -41,8 +41,8 @@
 - ### CS50x: Harvard's Introduction To Computer Science and the art of Programming
 
 ## ⋐ Projects
-- ### [Personal Website](https://github.com/IceFly147/icefly147.github.io)
-- ### [Learnova: Roadmaps On Steroids](https://github.com/IceFly147/Graviton-1)
+- ### [Personal Website](https://github.com/Shaven-Wickramanayaka/icefly147.github.io)
+- ### [Learnova: Roadmaps On Steroids](https://github.com/Shaven-Wickramanayaka/Graviton-1)
 - ### <strike>Missing Semicolon Studio</strike>
 
 ## Thank You For Reading ^_^
