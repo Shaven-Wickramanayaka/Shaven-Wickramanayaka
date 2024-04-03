@@ -1,17 +1,7 @@
-# (☞ﾟヮﾟ)☞ Shaven Wickramanayaka ☜(ﾟヮﾟ☜)
-## ↪ Basic Information
 ![Linkedin_Banner](https://github.com/Shaven-Wickramanayaka/Shaven-Wickramanayaka/assets/100683747/72c30207-880a-44c0-8a66-9c2a91c2ef53)
-
-```
-"Name": Shaven Dulneth Wickramanayaka,
-"Age" : 14 ,
-"Country": Sri Lanka,
-"Email": ShavenDulneth@gmail.com,
-"Gender": Male,
-"Hobbies": Programming, Basketball,
-```
-## ▦▧ Technical Information ▦▧
-
+<br>
+# Hi, my name is Shaven Wickramanayaka
+- I'm a self-taught web and game developer who is always on the lookout for the next big thing in tech. Currently working on CS50P while participating in the occasional Hackathon here and there. Fan of open-source, basktball and fish(the aquarium kind).
 - ### 🐙 GitHub Statistics
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="IceFly147's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Shaven-Wickramanayaka&show_icons=true&include_all_commits=true&count_private=true&theme=react&bg_color=#0000&title_color=F85D7F&icon_color=F8D86" height="192px"/>
 
