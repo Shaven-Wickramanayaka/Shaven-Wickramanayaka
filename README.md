@@ -1,5 +1,6 @@
 # (☞ﾟヮﾟ)☞ Shaven Wickramanayaka ☜(ﾟヮﾟ☜)
 ## ↪ Basic Information
+![Linkedin_Banner](https://github.com/Shaven-Wickramanayaka/Shaven-Wickramanayaka/assets/100683747/72c30207-880a-44c0-8a66-9c2a91c2ef53)
 
 ```
 "Name": Shaven Dulneth Wickramanayaka,
