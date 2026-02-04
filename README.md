@@ -1,41 +1,28 @@
 ![Linkedin_Banner](https://github.com/Shaven-Wickramanayaka/Shaven-Wickramanayaka/assets/100683747/72c30207-880a-44c0-8a66-9c2a91c2ef53)
 <br>
-# Hi, my name is Shaven Wickramanayaka
-- I'm a self-taught web and game developer who is always on the lookout for the next big thing in tech. Currently working on CS50P while participating in the occasional Hackathon here and there. Fan of open-source, basktball and fish(the aquarium kind).
-- ### 🐙 GitHub Statistics
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="IceFly147's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Shaven-Wickramanayaka&show_icons=true&include_all_commits=true&count_private=true&theme=react&bg_color=#0000&title_color=F85D7F&icon_color=F8D86" height="192px"/>
+# Hi, I'm Shàven 👋
+- I'm a sixth form student at Lawrence Sheriff School who makes weird and wonderful programs in my spare time. Still mad about Atom being discontinued
+<h2>I am Currently: </h2>
+<ul>
+ <li>Building Darevault for Flavourtown</li>
+  <li>Studying for A levels</li>
+  <li>Learning Godot for Campfire</li>
+</ul>
+<h2>Technologies I use</h2>
+ <li>Web Development:</li>
+ 
+  [![Web Development Skills](https://skillicons.dev/icons?i=vue,js,firebase,threejs,pinia,django,scss)](https://skillicons.dev)
+  
+  <li>Design and Illustration:</li>
+  
+   [![My Skills](https://skillicons.dev/icons?i=blender,ai,ps,pr)](https://skillicons.dev)
+  
+  <li>Game Development and Illustation: Unity, Godot, Inkscape, GIMP</li>
+  
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  
+</ul>
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaven-Wickramanayaka&layout=compact&theme=vision-friendly-dark&bg_color=#121212)
-
-- ### 💬 Programming Languages
-|                    |                                                                 |
-| :----------------: | :--------------------------------------------------------------:|
-|     `HTML5`        |![My Skills](https://skillicons.dev/icons?i=html&width=48)       |
-|     `CSS3`         |![My Skills](https://skillicons.dev/icons?i=css&width=48)        |
-|     `C#`           |![My Skills](https://skillicons.dev/icons?i=cs&width=48)         |
-|     `Javascript`  |![My Skills](https://skillicons.dev/icons?i=javascript&width=48)  |
-|     `Python`       |![My Skills](https://skillicons.dev/icons?i=python&width=48)     |
-|     `Markdown`     |![My Skills](https://skillicons.dev/icons?i=md&width=48)         |
-
-- ### 🎨 Frameworks and Tool
-|                      |                                                                  |
-| :------------------: | :--------------------------------------------------------------: |
-|     `VS Code`        |![My Skills](https://skillicons.dev/icons?i=vscode&width=48)      |
-|     `Visual Studio`  |![My Skills](https://skillicons.dev/icons?i=visualstudio&width=48)|
-|     `Unity`          |![My Skills](https://skillicons.dev/icons?i=unity&width=48)       |
-|     `Django`         |![My Skills](https://skillicons.dev/icons?i=django&width=48)      |
-|     `ThreeJS`        |![My Skills](https://skillicons.dev/icons?i=threejs&width=48)     |
-|     `Sass`           |![My Skills](https://skillicons.dev/icons?i=sass&width=48)        |
-
-## ∑ Certifications
-- ### Cambridge O Level: 5A's, 1A* 
-- ### CS50x: Harvard's Introduction To Computer Science and the art of Programming
-
-## ⋐ Projects
-- ### [Personal Website](https://github.com/Shaven-Wickramanayaka/icefly147.github.io)
-- ### [Learnova: Roadmaps On Steroids](https://github.com/Shaven-Wickramanayaka/Graviton-1)
-- ### <strike>Missing Semicolon Studio</strike>
-
-## Thank You For Reading ^_^
+<br/>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
