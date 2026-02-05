@@ -17,11 +17,15 @@
   
    [![My Skills](https://skillicons.dev/icons?i=blender,ai,ps,pr)](https://skillicons.dev)
   
-  <li>Game Development and Illustation: Unity, Godot, Inkscape, GIMP</li>
+  <li>Game Development</li>
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=unity,godot)](https://skillicons.dev)
   
 </ul>
+
+<br/>
+
+![My GitHub Game](game.gif)
 
 <br/>
 
