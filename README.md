@@ -1,7 +1,14 @@
-![Linkedin_Banner](https://github.com/Shaven-Wickramanayaka/Shaven-Wickramanayaka/assets/100683747/72c30207-880a-44c0-8a66-9c2a91c2ef53)
-<br>
+<img width="1855" height="1240" alt="Thinkpad- Shaven" src="https://github.com/user-attachments/assets/0af245ee-b2b5-4024-8aa2-3b398578bc94" />
+
+---
+
 # Hi, I'm Shàven 👋
-- I'm a sixth form student at Lawrence Sheriff School who makes weird and wonderful programs in my spare time. Still mad about Atom being discontinued
+
+- I'm a student developer who works throughout multiple domains such as web, game and mobile development.
+-  I've built full stack systems from the ground up using Vue and Firebase, made games with Unity and Godot and started learning multiplatform development with Flutter.
+-   I am also proficient in vector illustration with Inkscape and video editing with Premiere Pro.
+-   Alongside these, I enjoy tinkering with low level languages and hardware, guiding students into tech and contributing to open-source projects.
+
 <h2>I am Currently: </h2>
 <ul>
  <li>Building Darevault for Flavourtown</li>
